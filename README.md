@@ -1,4 +1,8 @@
-# Spring MVC Tutorial | Spring Boot | Full Course [2021]
-Spring MVC Tutorial | Spring Boot | Full Course [2021] at https://youtu.be/Ku3gsv7_bCc
+# Spring Boot Application
 
-Blog tutorial at https://www.javaguides.net/2021/05/spring-boot-crud-tutorial.html
+<h3>Student Management System</h3>
+
+<p>
+This Application accept student first name, last name, email and store it to database
+
+</p>
